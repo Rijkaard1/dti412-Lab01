@@ -25,3 +25,14 @@ In DTI412, I expect to learn how to build real web applications using Django and
 - Technical skills I want to improve: Python programming, problem solving, secure coding, and using the Linux command line
 - Technologies I want to learn: Django, REST APIs, Docker, cloud platforms, and network security tools
 - Dream Job Position: Cybersecurity Engineer
+
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
